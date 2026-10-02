@@ -13,7 +13,3 @@ The risk of supply chain attacks involved in publicising this code has therefore
   - Revoking itself as an authenticator
   - Updating the authenticator information stored on the server side
 
-
-
-The keys that this authenticator generates, an RSA key and an ECC key, are stored unsafely in a json file for simplicity in this implementation.
-In the official MitID Android app, the keys are stored in a BouncyCastle keystore and hardware backed key storage respectively. It is also not possible to even use both of these keys without at least some communication and authentication with the MitID server.
