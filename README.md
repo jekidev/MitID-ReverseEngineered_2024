@@ -1,7 +1,7 @@
 # MitID-ReverseEngineered
 
 
-https://github.com/Hundter/MitID-ReverseEngineered/assets/9397488/4c4fd48f-6f16-420f-a71a-a7c1d342bc4
+https://github.com/jekidev/MitID-ReverseEngineered_2024
 
 The risk of supply chain attacks involved in publicising this code has therefore been mitigated, and i hope this release will allow universities like DTU, to evaulate the design of the MitID protocol, furthering danish IT security.
 
